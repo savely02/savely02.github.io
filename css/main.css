@@ -661,10 +661,10 @@ input {
   font-weight: 600;
   text-transform: uppercase;
 }
-
+/* 
 .btn_mob {
   display: none;
-}
+} */
 body input:required:valid, body textarea:required:valid{
   color:#000;
 }
