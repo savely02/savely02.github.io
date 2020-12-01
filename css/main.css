@@ -494,7 +494,9 @@ img.par2 {
     transform:scale(2);
   }
 }
-
+.btn_mob {
+  display:none;
+}
 
 .img_i {
   width: 90px;
