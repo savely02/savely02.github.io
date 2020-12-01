@@ -857,7 +857,7 @@ body input:required:valid, body textarea:required:valid{
   .contianer_number {
     padding: 10px;
     position: relative;
-    top:4px;
+    top:0;
   }
   input {
     width: 100%;
