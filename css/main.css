@@ -845,9 +845,9 @@ body input:required:valid, body textarea:required:valid{
   .text_p > p {
     font-size: 16px;
   }
-  .icon {
+/*   .icon {
     display: none;
-  }
+  } */
   p {
     font-size: 14px;
   }
